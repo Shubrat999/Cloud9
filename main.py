@@ -1,1 +1,1 @@
-printf("hello Shubrat TACO21102")
+print("hello Shubrat TACO21102")
